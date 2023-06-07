@@ -1,0 +1,10 @@
+src/main/java/labcodeinspection/Email.java:7:	ImmutableField:	ImmutableField: Field 'm_firstName' may be declared final
+src/main/java/labcodeinspection/Email.java:8:	ImmutableField:	ImmutableField: Field 'm_lastName' may be declared final
+src/main/java/labcodeinspection/Email.java:9:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'password'
+src/main/java/labcodeinspection/Email.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:47:	StringInstantiation:	StringInstantiation: Avoid instantiating String objects; this is usually unnecessary.
+src/main/java/labcodeinspection/Email.java:50:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/EmailApp.java:5:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/labcodeinspection/EmailApp.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
